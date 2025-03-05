@@ -27,6 +27,9 @@ streamlit run password_strength.py
 
 ### 3️⃣ Enjoy a Secure Password Experience! 🔥
 
+## 🖥️ Live Demo
+Check out the live app here: [🔗 Password Strength Meter](https://password-strength--meter.streamlit.app/)
+
 ## 🖥️ Screenshots
 📸 **Coming Soon!**
 
